@@ -1,0 +1,12 @@
+{
+	"Name": "Lucas",
+	"Age": 21,
+	"Contact": "1234567",
+	"Company": "HP",
+	"Address": {
+		"City": "Palo Alto",
+		"State": "California",
+		"Country": "USA",
+		"ZipCode": 94304
+	}
+}

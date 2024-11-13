@@ -1,0 +1,12 @@
+{
+	"Name": "Sophia",
+	"Age": 24,
+	"Contact": "8765432",
+	"Company": "Intel",
+	"Address": {
+		"City": "Santa Clara",
+		"State": "California",
+		"Country": "USA",
+		"ZipCode": 95050
+	}
+}

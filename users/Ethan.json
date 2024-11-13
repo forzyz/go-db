@@ -1,0 +1,12 @@
+{
+	"Name": "Ethan",
+	"Age": 22,
+	"Contact": "3456789",
+	"Company": "Amazon",
+	"Address": {
+		"City": "Seattle",
+		"State": "Washington",
+		"Country": "USA",
+		"ZipCode": 98101
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Mia",
+	"Age": 26,
+	"Contact": "9876543",
+	"Company": "Apple",
+	"Address": {
+		"City": "Cupertino",
+		"State": "California",
+		"Country": "USA",
+		"ZipCode": 95014
+	}
+}
